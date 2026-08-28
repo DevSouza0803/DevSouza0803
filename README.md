@@ -1,6 +1,5 @@
 # Samuel Souza
 
-**AWS | AI-Powered Development | Cybersecurity**
 
 ```text
 README
@@ -10,7 +9,7 @@ README
 ├── AI Development
 ├── AWS / Cloud
 ├── Cybersecurity
-└── Contact
+
 ```
 
 ## Pinned Repositories
